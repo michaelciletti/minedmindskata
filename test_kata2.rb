@@ -31,4 +31,8 @@ class TestMinedMindsKata < Minitest::Test
 		assert_equal("mined",minedmindskata(6))
 	end
 
+	def test_function_returns_mined9
+		assert_equal("mined",minedmindskata(9))
+	end
+
 end

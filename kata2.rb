@@ -7,6 +7,8 @@ def minedmindskata(x)
 		"mined"
 	elsif x==15
 		"minedminds"
+	elsif x==9
+		"mined"
 	else
 		x
 	end
