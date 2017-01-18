@@ -11,6 +11,8 @@ def minedmindskata(x)
 		"mined"
 	elsif x==100
 		"minds"
+	elsif x==0
+		0
 	else
 		x
 	end
