@@ -13,7 +13,13 @@
 
 # end
 
-puts (1...5).to_a
-puts "pizza"
-puts (6..100).to_a
+# 
+# puts "pizza"
+# puts (6..100).to_a
 
+for n in 1..100 do
+if n == 5  then puts "pizza"
+	elsif n == 10  then puts "pizza"
+else puts n
+	end
+end
