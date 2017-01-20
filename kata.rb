@@ -8,8 +8,7 @@
 	# print tt, " \n";
 # end
 
-# for a in 1..100
-	# puts a, "\n";
+# 
 
 # end
 
